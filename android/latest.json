@@ -1,7 +1,7 @@
 {
   "packageName": "dev.morlay.genshintools",
   "version": "2.4.0",
-  "buildNumber": "22023316",
-  "downloadURL": "https://ghproxy.com/https://raw.githubusercontent.com/morlay/genshintools/release-stable/android/genshintools-release-2.4.0-22021316.apk",
+  "buildNumber": "22023317",
+  "downloadURL": "https://ghproxy.com/https://raw.githubusercontent.com/morlay/genshintools/release-stable/android/genshintools-release-2.4.0-22021317.apk",
   "description": "[fix] 废弃 gitee 升级（下个版本生效）\n\n[feat] 副词条统计\n\n[feat] 切换配装升级流派，如融化甘雨/冰冻甘雨"
 }
