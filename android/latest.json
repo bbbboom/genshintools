@@ -1,7 +1,7 @@
 {
   "packageName": "dev.morlay.genshintools",
   "version": "2.5.0",
-  "buildNumber": "22023413",
-  "downloadURL": "https://ghproxy.com/https://raw.githubusercontent.com/morlay/genshintools/release-stable/android/genshintools-release-2.5.0-22021413.apk",
+  "buildNumber": "22023422",
+  "downloadURL": "https://ghproxy.com/https://raw.githubusercontent.com/morlay/genshintools/release-stable/android/genshintools-release-2.5.0-22021422.apk",
   "description": "[feat] v2.5 数据更新\n\n[fix] 抽卡记录格式调整为 uigf\n\n[fix] 废弃 gitee 升级（下个版本生效）\n\n[feat] 副词条统计\n\n[feat] 切换配装升级流派，如融化甘雨/冰冻甘雨"
 }
