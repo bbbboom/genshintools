@@ -1,7 +1,7 @@
 {
     "packageName": "dev.morlay.genshintools",
     "version": "2.5.0",
-    "buildNumber": "220219129",
-    "downloadURL": "https://ghproxy.com/https://raw.githubusercontent.com/morlay/genshintools/release-stable/android/dev.morlay.genshintools-release-arm64-v8a-2.5.0-220219129.apk",
+    "buildNumber": "220220174",
+    "downloadURL": "https://ghproxy.com/https://raw.githubusercontent.com/morlay/genshintools/release-stable/android/dev.morlay.genshintools-release-arm64-v8a-2.5.0-220220174.apk",
     "description": "* [feat] \u8bcd\u6761\u8bc4\u5206\u91cd\u6784\u4e3a 18+6\uff0c\u5e76\u652f\u6301\u67e5\u770b\u6bd5\u4e1a\u9762\u677f\n* [feat] \u672a\u83b7\u5f97\u89d2\u8272\u9ed8\u8ba4\u9762\u677f\u4e3a 90 9/9/9 +20\n* [feat] v2.5 \u6570\u636e\u66f4\u65b0\n"
 }
